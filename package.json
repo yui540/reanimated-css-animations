@@ -1,0 +1,29 @@
+{
+  "name": "reanimated-css-animations",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@types/styled-components-react-native": "5.2.5",
+    "expo": "~54.0.33",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-reanimated": "~4.1.1",
+    "react-native-web": "^0.21.0",
+    "react-native-worklets": "0.5.1",
+    "styled-components": "6.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "babel-preset-expo": "54.0.10",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
